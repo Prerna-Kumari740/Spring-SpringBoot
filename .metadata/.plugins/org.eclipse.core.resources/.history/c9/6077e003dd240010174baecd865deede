@@ -1,0 +1,11 @@
+package in.sp.main;
+
+import in.sp.beans.Student;
+
+public class Main {
+	public static void main(String[] args) {
+		String config_loc ="in/sp/resources/applicationContext.xml";
+		
+	}
+
+}
