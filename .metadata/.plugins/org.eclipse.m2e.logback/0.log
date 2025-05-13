@@ -620,3 +620,10 @@
 2025-05-11 13:47:20,452 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\NamedParameterJdbcTemplateDemo\src\test\resources
 2025-05-11 13:52:26,686 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\NamedParameterJdbcTemplateDemo\src\main\resources
 2025-05-11 13:52:26,690 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\NamedParameterJdbcTemplateDemo\src\test\resources
+2025-05-11 23:49:31,844 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-11 23:49:56,980 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MavenFirstProgram\src\main\resources
+2025-05-11 23:49:56,998 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MavenFirstProgram\src\test\resources
+2025-05-11 23:50:10,038 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\NamedParameterJdbcTemplateDemo\src\main\resources
+2025-05-11 23:50:10,614 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\NamedParameterJdbcTemplateDemo\src\test\resources
+2025-05-11 23:50:13,758 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\SpringJdbcCrudOpeartions\src\main\resources
+2025-05-11 23:50:13,772 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\SpringJdbcCrudOpeartions\src\test\resources
