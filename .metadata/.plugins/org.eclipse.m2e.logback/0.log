@@ -704,3 +704,12 @@
 2025-05-13 11:17:46,304 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MvcDesignPattern\src\test\resources
 2025-05-13 11:21:54,238 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MvcDesignPattern\src\main\resources
 2025-05-13 11:21:54,246 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MvcDesignPattern\src\test\resources
+2025-05-13 22:58:36,965 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-13 22:59:01,023 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MavenFirstProgram\src\main\resources
+2025-05-13 22:59:01,039 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MavenFirstProgram\src\test\resources
+2025-05-13 22:59:03,676 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MvcDesignPattern\src\main\resources
+2025-05-13 22:59:03,684 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\MvcDesignPattern\src\test\resources
+2025-05-13 22:59:05,875 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\NamedParameterJdbcTemplateDemo\src\main\resources
+2025-05-13 22:59:05,889 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\NamedParameterJdbcTemplateDemo\src\test\resources
+2025-05-13 22:59:08,164 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\SpringJdbcCrudOpeartions\src\main\resources
+2025-05-13 22:59:08,175 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\SpringProg\SpringJdbcCrudOpeartions\src\test\resources
